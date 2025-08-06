@@ -23,8 +23,8 @@
 <br>
 
 <div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=vision-friendly-dark" alt="Top Languages" />
+  <a>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fani1016&layout=compact&theme=vision-friendly-dark" alt="Top Languages" />
   </a>
 </div>
 
