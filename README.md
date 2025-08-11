@@ -31,8 +31,9 @@
 <br>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fani1016&show_icons=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=fani1016&layout=compact&theme=vision-friendly-dark" alt="GitHub Stats" />
 </p>
+
 
 <div id="header" align="center">
   <h3>📫 Let's get connected :</h3>
