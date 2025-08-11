@@ -28,6 +28,11 @@
   </a>
 </div>
 
+<br>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=fani1016&show_icons=true&count_private=true" alt="GitHub Stats" />
+</p>
 
 <div id="header" align="center">
   <h3>📫 Let's get connected :</h3>
@@ -40,7 +45,6 @@
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gmail-Dark.svg" title="Gmail" **alt="Gmail" width="40" height="40"/>
   </a>
 </div>
-
 <!---
 fani1016/fani1016 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
