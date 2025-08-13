@@ -22,6 +22,11 @@
 
 <br>
 
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fani1016&langs_count=10&size_weight=0&count_weight=1&exclude_repo=repoA,repoB)
+
+
 <div align="center">
   <a>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fani1016&layout=compact&theme=vision-friendly-dark" alt="Top Languages" />
