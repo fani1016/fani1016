@@ -23,17 +23,14 @@
 <br>
 
 <div align="center">
-  <a>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fani1016&layout=compact&theme=vision-friendly-dark" alt="Top Languages" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fani1016&layout=compact&theme=vision-friendly-dark" alt="Top Languages" />
 </div>
 
 <br>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fani1016&layout=compact&theme=vision-friendly-dark" alt="GitHub Stats" />
-</p>
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=fani1016&layout=compact&theme=vision-friendly-dark&show_icons=true" alt="Farhan's GitHub stats" />
+</div>
 
 <div id="header" align="center">
   <h3>📫 Let's get connected :</h3>
